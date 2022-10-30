@@ -3,11 +3,10 @@
 *Apply the foundational skills in Introduction to Python and Intermediate Python courses to manipulate and visualize movie and TV data.*
 
 
-[![pandas][pandas.js]][pandas-url]
-[![numpy][numpy.js]][numpy-url]
-[![matplotlib][matplotlib.js]
-[matplotlib-url]
-[![ipython][ipython.js]][ipython-url]
+  [![pandas][pandas.js]][pandas-url]
+ [![numpy][numpy.js]][numpy-url]
+ [![matplotlib][matplotlib.js]][matplotlib-url]
+ [![ipython][ipython.js]][ipython-url]
 
 ## Table of contents
 * [General info](#general-info)
@@ -46,3 +45,12 @@ This project helps me gain experience in an essential data science skill — exp
 10. What next?
 
 
+
+[pandas.js]: https://img.shields.io/badge/pandas-1.4.3-blue
+[pandas-url]: https://pandas.pydata.org/
+[numpy.js]: https://img.shields.io/badge/numpy-1.23.2-blue
+[numpy-url]: https://numpy.org/
+[matplotlib.js]: https://img.shields.io/badge/matplotlib-3.5.3-blue
+[matplotlib-url]: https://matplotlib.org/
+[ipython.js]: https://img.shields.io/badge/ipython-8.4.0-blue
+[ipython-url]: https://ipython.org/
