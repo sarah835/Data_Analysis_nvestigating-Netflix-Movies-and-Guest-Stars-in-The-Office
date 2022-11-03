@@ -2,7 +2,7 @@
 **Python projects on DataCamp**
 *Apply the foundational skills in Introduction to Python and Intermediate Python courses to manipulate and visualize movie and TV data.*
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sarah835/Data_Analysis_nvestigating-Netflix-Movies-and-Guest-Stars-in-The-Office/main?filepath=notebook.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sarah835/Data_Analysis_nvestigating-Netflix-Movies-and-Guest-Stars-in-The-Office/master?filepath=/notebook.ipynb)]
 
   [![pandas][pandas.js]][pandas-url]
  [![numpy][numpy.js]][numpy-url]
