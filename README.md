@@ -13,6 +13,7 @@
 * [General info](#general-info)
 * [Description](#Description)
 * [Guided project](#Guided-project)
+* [Conclusion](#Conclusion)
 
 ## General info
 This project is part of Data Scientist with Python [datacamp](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5).
@@ -33,7 +34,7 @@ This project helps me gain experience in an essential data science skill — exp
 
 *Dig into a real-world Netflix movie dataset using everything from lists and loops to pandas and matplotlib.*
 
-#### Project tasks
+#### 🎯 Project tasks
 1. Loading a friend's data into a dictionary
 2. Creating a DataFrame from a dictionary
 3. A visual inspection of our data
@@ -57,4 +58,5 @@ This project helps me gain experience in an essential data science skill — exp
 [ipython-url]: https://ipython.org/
  
 
-
+### 🏆 Conclusion 
+<p> les durations des films sont deviennent plus court </p>
