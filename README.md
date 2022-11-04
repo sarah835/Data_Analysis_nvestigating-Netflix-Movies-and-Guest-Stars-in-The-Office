@@ -59,4 +59,4 @@ This project helps me gain experience in an essential data science skill — exp
  
 
 ### 🏆 Conclusion 
-<p> les durations des films sont deviennent plus court </p>
+<p> les durations des films varies dans les années 1940 et 2020  </p>
